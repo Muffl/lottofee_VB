@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lottofee_VB", "lottofee_VB\lottofee_VB.vbproj", "{46191483-4F40-41EB-8952-7A805649FD0A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "zahlen_raten", "zahlen_raten\zahlen_raten.vbproj", "{2E3E0765-FE91-4C04-ABBD-779CFCE6F7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46191483-4F40-41EB-8952-7A805649FD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46191483-4F40-41EB-8952-7A805649FD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46191483-4F40-41EB-8952-7A805649FD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46191483-4F40-41EB-8952-7A805649FD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3E0765-FE91-4C04-ABBD-779CFCE6F7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3E0765-FE91-4C04-ABBD-779CFCE6F7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3E0765-FE91-4C04-ABBD-779CFCE6F7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3E0765-FE91-4C04-ABBD-779CFCE6F7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0634782-3E9E-467B-A90C-8E669D38F7C0}
+	EndGlobalSection
+EndGlobal
